@@ -1,0 +1,25 @@
+.myDiv {
+	border: solid 1px blue;
+	border-radius: 6px;
+	margin-left: 20%;
+	margin-right:20%;
+	text-shadow: 5px 5px 10px green;
+	display: flex;
+	justify-content: center;
+	height: 800px;
+
+
+}
+
+.innerText {
+	flex: 1;
+}
+
+.cr{
+
+	display: flex;
+	justify-content:  center;
+	font-family: 'Oswald', sans-serif;
+    //padding-top: 60px;
+
+	}
