@@ -10,6 +10,16 @@
 
 
 }
+.h1{
+          text-shadow: 1px 5px 10px #000000;  
+          display: flex;
+	justify-content:  center;
+
+
+
+
+
+ 	                            }
 
 .innerText {
 	flex: 1;
@@ -23,3 +33,6 @@
     //padding-top: 60px;
 
 	}
+
+
+	
